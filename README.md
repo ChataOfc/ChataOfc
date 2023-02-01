@@ -10,9 +10,11 @@
 
 - 🌱 Saya masih belajar **Mohon maaf kalo ada yang salah**
 
-- 🤖 Hai ini tautan proyek NakanoNino [Nakano Nino Botz](https://github.com/NakanoNino)
+- 🤖 Hai ini tautan proyek NakanoNino [Nakano Nino Botz](https://github.com/ChataOfc/NakanoNino)
 
-- 🤝 Saya mencari bantuan dengan [Nakano Nino Botz](https://github.com/NakanoNino)
+- 🤖 Hai ini tautan proyek YaeMiko [YaeMiko](https://github.com/ChataOfc/YaeMiko)
+
+- 🤝 Saya mencari bantuan dengan [Nakano Nino Botz](https://github.com/ChataOfc/NakanoNino)
 
 - 👨‍💻 Semua proyek saya tersedia di [https://github.com/ChataOfc](https://github.com/ChataOfc)
 
